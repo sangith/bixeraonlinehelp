@@ -1,0 +1,68 @@
+[OPTIONS]
+Language=0x409 English (United States)
+Default Font=Arial,8,0
+TITLE=Bixer
+Full-text search=Yes
+Display compile notes=YES
+Display compile progress=YES
+Compatibility=1.1
+Auto Index=Yes
+Default Window=Main
+Compiled file=bixer.chm
+Error Log file=bixer.log
+Contents file=bixer.hhc
+Index File=bixer.hhk
+Default Topic=table-of-contents.html
+
+[FILES]
+table-of-contents.html
+ExternalAppointment.html
+Calendar.html
+customer.html
+view-customers.html
+add-a-registered-customer.html
+edit-a-customer.html
+edit-customer-contact.html
+deleting-a-registered-customer.html
+complaints.html
+add-an-unregistered-customer.html
+unregistered-cust-contact-tab.html
+linking-user.html
+adding-subscription-for-an-active-customer.html
+creating-filters.html
+terminating-an-active-customer.html
+viewing-subscribers.html
+adding-subscriptions.html
+defining-discounts-for-subscriptions.html
+defining-fees-for-subscriptions.html
+defining-rules-for-subscriptions.html
+managing-subscriptions.html
+adding-subscribers.html
+modifying-subscriber-details.html
+adding-filters-for-subscribers.html
+viewing-subscription-applications.html
+adding-filters-for-subscription-applications.html
+adding-complaints.html
+filtering-complaints.html
+subscribing-for-a-course.html
+applying-for-subscription.html
+subscribed-successfully.html
+
+
+
+
+[WINDOWS]
+Main="Bixer","bixer.hhc","bixer.hhk","table-of-contents.html","table-of-contents.html",,,,,0x61520,200,0x384e,[50,50,450,450],0x307e,,,,,,0
+Popup="Popup","bixer.hhc","bixer.hhk","table-of-contents.html","table-of-contents.html", ,,,,0x00061520,200, 0x0000384E,[50,50,450,450],0x307e,0x8,,,,,0
+
+
+[MAP]
+#include bixer.h
+
+
+
+[TEXT POPUPS]
+CSHelp.txt
+
+ 
+

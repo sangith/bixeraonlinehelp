@@ -1,0 +1,50 @@
+<div align="left"><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">You can specify the contact details of an unregistered customer using this tab. This includes 
+the primary email&nbsp; address, secondary email address, phone number, and the postal 
+address of the customer. </span></font></div>
+<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm; margin-top:1.41mm; margin-bottom:1.41mm;"><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Contact</b></span></font></p>
+<ol style="margin-bottom: 0mm; ">
+<li style="margin-left: -23pt; margin-right: 0pt; padding-left: 0pt; font-family: MetaNormalLF-Roman;  font-size: 11pt;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Email</b>: Enter the primary email address of the customer.</span></font></li>
+<li style="margin-left: -23pt; margin-right: 0pt; padding-left: 0pt; font-family: MetaNormalLF-Roman;  font-size: 11pt;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Number</b>: Enter the phone number of the customer.</span></font></li>
+<li style="margin-left: -23pt; margin-right: 0pt; padding-left: 0pt; font-family: MetaNormalLF-Roman;  font-size: 11pt;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Contact Emails</b>:&nbsp; Click <b>+ Add</b>&nbsp; to add additional email addresses. You can save 
+the 
+email addresses under <b>Home</b>, <b>Office</b>, and <b>Other </b>categories.</span></font></li>
+</ol>
+<ul style="margin-bottom: 0mm; list-style-type: disk; ">
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"><b>TYPE:</b> Select a value from the drop-down list. The values are: <b>Home</b>, <b>Office</b>, 
+and <b>Other.</b></span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"><b>EMAIL</b>: Enter the email address of the customer. This is mandatory. </span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">Click <img src="bixer1.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span 
+style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to save the record or click <img src="bixer2.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to cancel.&nbsp; </span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">After you save the record, a <img src="bixer3.JPG" border=0 alt="graphic"/></span></font><font 
+face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> icon appears adjacent to the email address in 
+the table. Click this icon to edit or change the type of the email address.&nbsp; </span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">To delete the saved email address, hover your mouse over the email address 
+and click <img src="bixer4.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">. In the <i>Delete Contact Email </i>pop-up screen, click <img src="bixer5.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span 
+style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to delete 
+or click <img src="bixer6.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to cancel the operation. </span></font></li>
+</ul>
+<ol start="4" style="margin-bottom: 0mm; ">
+<li style="margin-left: -23pt; margin-right: 0pt; padding-left: 0pt; font-family: MetaNormalLF-Roman;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"><b>Address</b>:&nbsp; Click <b>+ Add</b>&nbsp; to add postal address 
+of the customer.</span></font></li>
+</ol>
+<ul style="margin-bottom: 0mm; list-style-type: disk; ">
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Type</b>:&nbsp; Select a value from the drop-down list. The values are: <b>Home</b>, <b>Office</b>, 
+and <b>Other. </b>You can save the postal address under <b>Home</b>, <b>Office</b>, or <b>Other 
+</b>categories.</span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Field 1, 2, and 3</b>: Enter the address in these fields. Note that <b>Field 1 </b>is 
+mandatory.</span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>City</b>: Enter the city. This field is mandatory.</span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>State</b>: Enter the state. This field is mandatory.</span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Country</b>: Select a value from the drop-down list. This field is mandatory.</span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"><b>Pin Code</b>: Enter the pin code. </span></font></li>
+<li style="margin-left: 14pt; margin-right: 0pt; padding-left: 0pt; font-family: Symbol;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000">Click <img src="bixer7.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman"><span 
+style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"> to save the details or click <img src="bixer8.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"> to cancel. </span></font></li>
+</ul>
+<ol start="5" style="margin-bottom: 0mm; ">
+<li style="margin-left: -23pt; margin-right: 0pt; padding-left: 0pt; font-family: MetaNormalLF-Roman;  font-size: 11pt;  color: #010101;  "><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">Click <img src="bixer9.JPG" border=0 alt="graphic"/></span></font><font 
+face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to navigate to the </span></font><a href="add-a-registered-customer"><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000">Home</span></font></a><font face="MetaNormalLF-Roman"><span 
+style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000"> </span></font><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101">tab, click <img src="bixer10.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span 
+style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to save the details, or click <img src="bixer11.JPG" border=0 alt="graphic"/></span></font><font face="MetaNormalLF-Roman" color="#010101"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#010101"> to 
+cancel. </span></font></li>
+</ol>
+<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm; margin-top:1.41mm; margin-bottom:1.41mm;"><a href="table-of-contents"><font face="MetaNormalLF-Roman"><span style=" font-size:11pt; font-family:MetaNormalLF-Roman; color:#000000">View Table of Contents</span></font></a></p>
