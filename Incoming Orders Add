@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Incoming Orders Add</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Incoming Orders - Add</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can use this screen to add the orders that come from the Customers for products and 
+services.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Customer :</b> Choose the Customer who has placed the order, from the drop down list. Typing the 
+first few characters of the customer name automatically displays the relevant customer names. 
+Choose the appropriate customer name by clicking on the customer name from the list.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Requested Delivery Date: </b>Enter the Date by when the delivery of Products and services are 
+requested by the Customer.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Accepted Order : </b>Select this check box if you have accepted this Customer Order. This field is 
+not mandatory. You can first record the Incoming Customer Order first and later analyze and 
+decide to accept the Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Products : </b>To Choose the unique Products and Services mentioned in the Order, click on <b>+Add 
+Button</b> at the right hand corner.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Name</b>: Choose the name of Product or Service from the Drop down list.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Quantity: </b>Choose the Quantity Ordered by Customer and the Unit of Measure from the Drop 
+down list(Ex : Piece,Dozen etc)</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Unit Price: </b>Per unit price of the Product or Service chosen</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Sub total: </b>The Sub total (Quantity X Unit Price) is automatically calculated by the application and 
+displayed in the Sub total field. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Automatically the control is moved to the next line to enable you to add more Product or Service in 
+the Customer Incoming Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Delete :&#160;</b> At any time you wish to remove a line item(i.e Product or Service entered in the screen), 
+you can remove them by clicking on the<b> Delete</b> button that appears immediately below the 
+Product name.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"> </span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Message : </b>Once you have completed recording all the Products and Services in the Customer 
+Order, you can move to the Message field and enter any specific message or instructions from the 
+Customer for this order, in the Message field.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Order :</b> Click on the Order Button to Save and close the Customer Order Screen.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Cancel : </b>Click the Cancel Button if you do not want to Save the Customer Order and wish to 
+ignore the data entered.</span></font><font color="#010101"></font></div>
+<div align="left"><font color="#010101"></font></div>
+</body>
+</html>
