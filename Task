@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Task</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Tasks</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">The Tasks Screen lists all the Tasks defined. It displays the Name, Status, Created Date, Due 
+Date for each of the Task.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">If you wish to add, export, filter or search new Tasks, you can click on the <b>Red </b>Button at the right 
+bottom corner of the screen.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Select <b>+Add</b> Button if you wish to Add New Tasks. Please refer to the <b>Task Add</b> Section of the 
+Help to get more details on that Screen.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Select <b>Export </b>Button if you wish to transfer all the listed tasks to an external file system for further 
+processing. Choose&#160; Excel(Microsoft Excel spreadsheet application) or to a file with the format 
+CSV (Comma separated), XML(Extensible Markup language) or Text(flat text file).</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Select <b>Search </b>Button if you wish to search the tasks based on <b>Created By </b>field. On selecting the 
+Search button, you can provide the value for <b>Created By (Ex: </b>Name of the Person who created 
+the task) and press the <b>Search </b>Button. This Action will list all the Tasks created by the Name of 
+the Person provided in <b>Created By&#160;</b> criteria.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Select <b>Filter </b>Button if you wish to view the tasks based on certain criteria like the 
+Status(Pending/Completed),Task Created Date, Task Due Date, Tags(Associated Tags like 
+Urgent etc) etc. You can either create a new filter or choose the already saved filter. The Default 
+tab will be <b>+Create Filter</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To Create a new filter, provide the required details and choose the either of the below mentioned 
+actions.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Apply Filter : </b>After selecting the values for Task Status, Task created Date, Task Due Date, tags 
+etc. you can press the <b>Apply Filter </b>if you wish to make the <b>Filter Criteria </b>take effect immediately. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Save Filter : </b>On the Other hand, if you wish to save the Filter for subsequent use, click on the 
+<b>Save Filter </b>Button. The application will ask for the name for the Saved filter.Provide the same and 
+click the <b>OK </b>Button. This Action will save the current filter in the <b>Saved Filter Tab.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To Choose from a already Saved filter, click on the <b>Saved Filter Tab. </b>You can see all the Saved 
+Filter names in the list. Choose the required Filter. Immediately you can see the Tasks that qualify 
+the chosen filter being displayed in the list area at the bottom of the screen.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Edit : </b>Choose this function if you wish to change or modify the details of an existing Task. Please 
+Refer the Section on Tasks Edit to get more details on its usage.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Copy : </b>Choose this function if you wish to create a new Task from an existing Task. Clicking on 
+<b>Copy </b>Button will open the <b>Tasks Edit</b> Screen. You can change the name of the Task and re-use 
+its contents as it is or with some changes. On confirming the contents, the system will create a 
+new Task without disturbing the original task chosen for <b>Copy. </b>Please Refer the Section on Tasks 
+Edit to get more details on its usage.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Complete: </b>Choose this function if you wish to update the <b>status</b> of any task as <b>Complete. 
+</b>Clicking on the <b>Complete </b>Button will open a dialog box that asks for reconfirmation. Click on <b>OK</b> 
+to confirm or <b>Cancel</b> to ignore the change. If you had chosen the <b>OK</b> button, you can see the 
+Task Status of the current task changed to <b>Complete </b>from <b>Pending.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Assign: </b>Choose this function if you wish to assign the current Task to a specific staff(referred to 
+as <b>Handler </b>in the application). On Clicking this button, a dialog box appears asking you to choose 
+the <b>Handler</b> to whom you wish to allocate the task. You can assign the task to more than 1 
+handler. After choosing the <b>Handler, </b>you can provide instructions or message and click on 
+<b>Submit </b>to confirm or <b>Close </b>to ignore the assignment. Once you have assigned a <b>Task, </b>the 
+person or application user to whom the task has been assigned will get a notification about the 
+same.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Delete : </b>Choose this function if you wish to remove any of the Task from the list. You can only 
+delete a Task whose status is <b>Completed.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></font><font color="#010101"></font></div>
+</body>
+</html>
