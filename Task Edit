@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Tasks Edit</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Tasks Edit</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can use this function to modify or change details of already saved Tasks.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">The Task that you highlighted while you clicked the<b> Edit </b>Button in the Tasks Screen, is displayed 
+in the screen. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">This Screen is also called when you click the <b>Copy </b>Button from the Tasks Screen.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Click on any value that you wish to update and change the already existing details(Name, 
+Description etc).</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">In case you wish to <b>remove </b>any of the Tags defined, then simply click the <b>x mark</b> before the Tag. 
+In its place you can add another Tag. Type the name of the new Tag for this purpose.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can add documents as <b>attachments </b>for the task. Click on the <b>+Upload</b> Button to upload any 
+document from your PC. The Application opens the standard windows <b>File Selection</b> dialog box. 
+Navigate to the relevant folder, choose the required file and click <b>Open </b>button.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can also add to the existing details or delete the existing Reminders defined for the Task. To 
+Add, click on <b>+Add </b>button next to the Reminders Section. You can choose the Type from Drop 
+Down List(Minutes Before, Hours Before, Days Before etc). Provide the data for the <b>Value </b>field 
+(Ex : If you have chosen Minutes Before as the <b>Type, </b>then you can provide <b>10</b> as the data for the 
+<b>Value</b> field, if you want the reminder for the current task to appear <b>10 minutes </b>before its Due 
+Date and time.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">If you wish to remove any of the existing <b>Reminders</b>, use the <b>Delete </b>Button below the required 
+Reminder.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">After modifying the relevant details, click on the <b>OK </b>Button to confirm the modification. If you wish 
+to ignore the modifications, click on <b>Cancel </b>Button.</span></font><font color="#010101"></font></div>
+</body>
+</html>
