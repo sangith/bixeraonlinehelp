@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Task Add</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Tasks-&#160; Add</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can use this function to add new Tasks for your firm.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Name</b>: Enter the Unique name for the Task to be created (Ex : Seek Clarification- Utility Bill July 
+2015)</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Description</b>: Enter the Description for the new Task you wish to create (Ex: Check with 
+Authorities on the excess charges in the Utility Bill for July 2015)</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Due Date</b>: Choose the Date and time duration (from the Calendar utility) by when this Task needs 
+to be accomplished.&#160; </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Tags</b>: Add Tags to this Task (Ex: Urgent)</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Documents</b>: If you wish to attach relevant documents (Ex : Utility Biill in this case) for this task, 
+click on the +<b>Upload</b> Button. Clicking this button, will open the Windows file selection dialog box. 
+Choose the relevant document and click Open button. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Reminders</b>: Use this function to set reminders for the task. As the name suggests, these 
+reminders will provide reminder alerts at the defined time to ensure that the tasks are completed 
+on time.&#160; Click on <b>+Add </b>Button to start defining reminders. On clicking the <b>+Add</b> button, will open 
+the Reminder definition window. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Type :</b> Choose the type of the reminder from the dropdown list. (Ex: Minutes before, hours before 
+etc). Choose the relevant value based on whether you want these reminders to appear minutes 
+before or hours before the <b>Due Date </b>defined for the task. This way the timely reminder ensures 
+that you complete the task before the Due date. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Value </b>: Enter the Value for the chosen type (Ex : If you have chosen <b>Minutes Before </b>and wish to 
+be alerted or reminded 15 minutes before the Due Date and time of the task,&#160; then enter <b>15 </b>in the 
+<b>Value </b>field.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">This way you can define more than 1 reminder. You can use the <b>Delete </b>Button if you wish to 
+remove any of the reminders. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Finally choose <b>Finish </b>Button if you wish to save the added Task, else choose the <b>Cancel </b>Button if 
+you wish to ignore the Task created.&#160; </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></font><font color="#010101"></font></div>
+</body>
+</html>
