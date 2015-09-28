@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Incoming Orders_Assign Task</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Incoming Orders - Provide details for Task</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Use this function to Assign Tasks associated with this Incoming Customer Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Once you assign tasks to this Order, you can get reminders and also track the tasks related to this 
+Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">The Task Creation and Edit functionality is same as that mentioned in the Task Add and Task Edit 
+functions. Please refer the help section for more details </span></font><a href="!Task Add"></span><font face="Arial" color="#0000ff"><span style="font-size:10pt"><u>Task Add</u></span></font></a></span><font face="Arial" color="#010101"><span style="font-size:10pt"> and </span></font><a href="!Task Edit"></span><font face="Arial" color="#0000ff"><span 
+style="font-size:10pt"><u>Task Edit</u></span></font></a><font color="#010101"></font></div>
+</body>
+</html>
