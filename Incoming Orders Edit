@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Incoming Orders Edit</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial"><span style="font-size:13pt"><b>Incoming Orders-&#160; Edit</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">This function can be used to modify or change any of the details in the Incoming Customer Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">The Screen by default displays the details pertaining to the chosen Order. There are 3 tabs that 
+provide the information namely <b>Products, Quotation and Invoice and Task.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Products: </b>The <b>Products</b> Tab displays all the products and services pertaining to the Customer 
+Order. You can either add new products, modify&#160; or remove the products already listed. Inorder to 
+<b>Add</b> Products, click on <b>+Add</b> button available at the right hand corner. This will allow to capture 
+new Product name, Quantity, Unit Price, Sub total etc. This functionality is similar to the <b>Incoming 
+Orders</b> - Product Add function. Please refer the </span></font><a href="Incoming Orders"></span><font face="Arial" color="#0000ff"><span style="font-size:10pt"><u>Incoming Orders</u></span></font></a></span><font face="Arial" color="#010101"><span style="font-size:10pt"> help section for more details. 
+On the Other hand, if you wish to remove a product that is already mentioned in the Customer 
+Order, click on the <b>Delete</b> Button appearing below the <b>Product </b>to be removed. If you wish to 
+modify the details of the Product like product name, Quantity etc. you can simply click on the 
+product and perform the necessary change. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Quotation and Invoice: </b>You can view the Invoice and Quotation(if any) for the Customer Order. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">You can <b>Cancel</b> an invoice or updates its <b>Paid </b>status. Inorder to do this, go to the <b>Invoice 
+section. </b>Move the mouse pointer near the invoice that needs to be updated or cancelled. 
+Immediately you can see 2 buttons namely <b>Cancel </b>and <b>Paid </b>below the same. Click on cancel to 
+cancel the invoice. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Clicking on <b>Paid</b> button will open the Paid dialog box. the Paid dialog box will automatically display 
+the Invoice number, Payment Id, Invoice Amount etc. You can add the <b>Invoice Date</b> and <b>Made 
+Using(i.e Payment Mode). </b>Clicking on <b>Invoice Date&#160;</b> will open the <b>Calendar </b>dialog and you can 
+choose the Date of the Invoice<i>. </i>Clicking on the <b>Made Using </b>Dropdown list will list various 
+payment modes like <b>Cash, Cheque, Debit Card, Credit Card, Bank Transfer and Cash.</b>Choose 
+the required Payment mode.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">If you wish to confirm the receipt of Payment, click on <b>Pay. </b>Click on <b>Close </b>if you wish to ignore 
+the current entry. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Clicking on the <b>Cancel</b> button will open a dialog box asking for the <b>Description. </b>On providing the 
+same, click on <b>Send</b> if you wish to confirm cancellation of the invoice and send the information to 
+Customer OR click <b>Cancel</b> if you wish to ignore this cancellation entry.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Apart from these 2 buttons, you also have the option of clicking on a specific invoice listed in the 
+screen. If you click on any invoice listed in the screen, the application will display all the details of 
+the Invoice (in read only mode)- Sales Invoice View Screen. In the <b>Details</b> tab, you have options 
+like <b>Cancel, Paid, Print, Close. </b>These perform the same functions as mentioned above.</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b> </b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Task: </b>You can view the <b>Tasks </b>attached with this Customer Order in this tab.&#160; You can either add 
+a new task by clicking on <b>+Add </b>button Add or delete an existing Task by clicking on the <b>Delete</b> 
+Button below the chosen Task.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></font><font color="#010101"></font></div>
+</body>
+</html>
