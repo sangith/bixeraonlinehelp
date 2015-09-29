@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Incoming Orders_Invoice</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<p></span><font face="Arial" color="#010101"><span style="font-size:13pt"><b>Incoming Orders - Invoice</b></span></font><font color="#010101"></font></p>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Use the Invoice screen to create invoices for the Customer Orders.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">In order to create a Invoice, assign invoice number, choose the items in the invoice (with its 
+quantity, discount etc), key in the total discount, applicable tax,surcharge, Adjustments etc. Once 
+all the details are provided, either Save as Draft (Temporary save) or proceed to Save it and print 
+it or send to the Customer.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Invoice Number </b>: The Invoice number is an auto-generated value which increments by 1 for each 
+new invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Due Date:</b> Choose the Due Date by when the payment should be received from Customer.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Customer</b> : This field is automatically populated from the Customer information mentioned in the 
+current Order. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Order Number</b> : This field is automatically populated from the Order information mentioned in the 
+current Order. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Handler</b> :&#160; Select the User name who is raising this invoice. It can be same as the current logged 
+in user or it can be another user on whose behalf this invoice is being raised.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Items Section - </b>The Products and Services that are being invoiced are chosen from this section. 
+Each item has fields like Category, Item ID, Item Description, Unit Price, Quantity, Base 
+Price,Discount, Total etc. By default, the products and services mentioned in the Current Order 
+are displayed. You can either add to the same, remove any product or service or modify the 
+details of displayed items like Quantity, Unit Price etc. However please note that if you modify the 
+Unit Price, it does not change the <b>Unit Price</b> of the Customer(Incoming) Order.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">If you wish to remove any items (i.e Product or service or subscription), you can do so by moving 
+the mouse pointer near to the required item and then clicking on the <b>Delete </b>button that appears 
+below the same. This action will remove that item from the Invoice - Item section.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Click the <b>+Add button</b> to start adding new items to the Invoice. You can only add the products or 
+services available in the current Customer(Incoming) Order. The only additional category that can 
+be added are new subscriptions. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Select Category</b> : As you can only add Subscriptions (in addition) to those items already available 
+in the screen, choose the <b>Subscription</b> in Select Category. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Item code</b> : The Item code relevant for the chosen Category can be chosen from the Drop down 
+list.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Unit Price : </b>Enter the Unit Price of the Subscription(Ex : Monthly subscription fees if the invoice is 
+generated monthly or the subscription fees applicable for the entire subscription period, if the 
+invoice is being generated for the whole period).</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Quantity: </b>Enter the Quantity (Note : In case of monthly invoice, the Quantity can be 1 or if the 
+subscription period is 4 months and the total period is invoiced, then the Quantity will be 4 in that 
+case. Alternatively if the subscription fee is 1 full amount then the Quantity will be 1 and the Unit 
+Price will be the full subscription fees. Example : If a Course is 6 months and the full fees is INR. 
+50000,if the invoice is generated for the whole amount,&#160; then in this case, Quantity will be 1 and 
+the Unit Price can be INR 50,000).</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Base Price</b> : The Base Price gets automatically calculated by the System for the chosen Item. 
+This is calculated by multiplying the Quantity sold with the Unit Price.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Discount</b> : Not applicable for the subscription category.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Tax</b> : Not applicable for the subscription category. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Total : </b>The Total Value for the current item is displayed here (Total = Base Price - Discount + 
+Tax)</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">In the similar manner, you can add more items in the invoice. Click on the <b>+Add </b>button at the right 
+hand corner across the <b>Items </b>Section to add additional items to the invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">In case you do not need any item that you have created in the Invoice, you can use the <b>Delete</b> 
+button below the current item details in the invoice. The <b>Delete </b>button automatically appears when 
+you move your mouse pointer on the required item detail. <b>Delete</b> action removes the entire line 
+item from the invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To proceed with entry of other items, use the <b>+Add</b> button.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Once you have entered all the items in the invoice, you can start adding the levies and charges 
+applicable for the entire invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Surcharge</b>: You can include applicable surcharges for the invoice. Click <b>+Add</b> Button to add 
+surcharges. Clicking on the <b>+Add </b>button will create a new empty row to add the surcharges. 
+Provide the details for <b>Surcharge Name, Surcharge Type(Percentage or Amount). </b>Depending 
+on your selection the application allows you to either enter the<b> Surcharge Percentage or 
+Amount</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To add more Surcharges, click the <b>+Add </b>Button.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To fully remove any surcharge item, click on the <b>Delete</b> Button that appears below the surcharge 
+item when you move your mouse pointer near the surcharge item. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Invoice level discounts</b>: Use this section to define discounts that are applicable for the whole 
+invoice. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Click <b>+Add</b> Button to add the Invoice level discounts. Clicking on the <b>+Add </b>button will create a 
+new empty row to add the the discounts. Provide the details for <b>Discount, Discount 
+Type(Percentage or Amount). </b>Depending on your selection the application allows you to either 
+enter the<b> Discount Percentage or Amount</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To add more <b>Discounts</b>, click the <b>+Add </b>Button.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To fully remove any Discount item, click on the <b>Delete</b> Button that appears below the Discount 
+item when you move your mouse pointer near Discount item. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Adjustments:</b>If there are any adjustments to be made(Ex : Miscellaneous charges or any other 
+kinds of deductions based on past transactions) to this invoice, you can use this field to record the 
+same. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Click <b>+Add</b> Button to add the Adjustments. Clicking on the <b>+Add </b>button will create a new empty 
+row to add the the Adjustments. Provide the details for<b> Add or Subtract </b>(choose Add for 
+recording Increase Adjustment, choose Subtract for recording a Decrease Adjustment)<b>, Amount 
+</b>(Adjustment Amount)<b>, Description</b>(Details about the reason for Adjustment)<b>. </b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To add more <b>Adjustments</b>, click the <b>+Add </b>Button.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">To fully remove any <b>Adjustments</b> item, click on the <b>Delete</b> Button that appears below the 
+<b>Adjustments</b> item when you move your mouse pointer near the same. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Below fields are automatically calculated by the Application and display only fields.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Sub Total : </b>The sum of <b>Total </b>field in the <b>Items </b>Section.</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Total Base Price: </b>The sum of <b>Base Price </b>field in the <b>Items </b>Section</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Total Discount:</b> The sum of <b>Invoice level Discounts</b> Section</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Total Tax :</b> The sum of <b>Tax </b>field in the <b>Items </b>Section.</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Total Surcharge:</b> The sum of the <b>Amount </b>field in the <b>Surcharges </b>Section</span></font><font color="#010101"></font></div>
+<div align="left"></span><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Adjustment : </b>The sum of net(Increase-Decrease) <b>Adjustments</b> Section</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Grand Total : </b>The <b>Grand</b> <b>total</b> is a calculated by using the above mentioned calculated fields 
+based on the below formula :</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Sub Total </b>+ <b>Total Tax </b>+<b>Total</b> <b>Surcharge</b> + <b>Adjustments</b>- <b>Total Discount</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Documents : </b>Use this section to attach any relevant document to the Invoice. Click on <b>+Upload</b> 
+to start uploading documents from your system. The application opens the standard Windows File 
+Open dialog box. Choose the folder and then the file that needs to be uploaded. Click on Open 
+button. Now you can see the chosen file being attached with this invoice. In this way you can 
+attach more than 1 file to the current invoice. Once you have attached the relevant files,&#160; You can 
+remove any of this attachment by clicking on the <b>Delete B</b>utton below the attached file.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Payment Received : </b>If the full Payment is being collected at the time of invoice creation or has 
+already been collected, you can check the &quot;Payment Received&quot; Checkbox. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">The application asks for the below 2 information namely :</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Select Payment Mode: </b>Choose the Payment mode (Ex: Cash, Cheque, Debit Card, Credit Card 
+etc) from the drop down list.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Enter the following information for Payment mode other than <b>Cash.</b></span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Bank Account :</b> Bank Account number </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Reference Number: </b>Enter the Transaction Reference number</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Payment Date: </b>Choose the Date of receipt of the payment. If the payment was received in 
+advance, choose an earlier date or if it is just being received at the time of invoice generation, 
+choose the invoice date as the Payment Date. Use the <b>Calendar </b>dialog box to select the date.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">Clicking on the <b>Payment Received</b> field will internally create a receipt for the invoice. This facility 
+can be used only when the customer pays or has paid the full amount of the invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt">On completion of entry of the above fields , you can press any one of the below mentioned 
+buttons : </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Send :</b> Press this button when you have finalized the invoice and wish to send it to the Customer. 
+Once this button is pressed, the Invoice details are saved in the application and it is marked to be 
+shown in the &quot;Dashboard Section (Status-&gt;Unpaid Invoice subsection)&quot; when the Customer logs 
+in. </span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Save and Print</b>: Press this button when you have completed the invoice and wish to save the 
+details in the application and also print the invoice.&#160; In this case, the Invoice will not be marked to 
+be displayed in the &quot;Dashboard Section&quot; when the customer logs in.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Print:</b> Press this button when you wish to take a printout of the invoice. The details will not get 
+stored in the application. You can continue adding/modifying details in the invoice.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></span></font><font face="Arial" color="#010101"><span style="font-size:10pt"><b>Close:</b> Press this button when you wish to close the Invoice screen. If you have not pressed the 
+&quot;Save as Draft&quot; or &quot;Send&quot; or &quot;Save and Print&quot;, the details in the screen are ignored(i.e not saved) 
+and the Invoice screen gets closed and you will be taken back to the Customer Order Listing 
+Section.</span></font><font color="#010101"></font></div>
+<div align="left"><br />
+</div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"><br />
+</font></div>
+<font color="#010101">
+<div align="left"></font><font color="#010101"></font></div>
+</body>
+</html>
